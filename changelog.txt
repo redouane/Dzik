@@ -1,0 +1,45 @@
+v 1.3
+Released::27/November/2010
+Fixed Latin encoding related errors
+several other small bug fixes
+Added ZiKDalgerie Support
+
+
+v 1.2
+Released::24/August/2010
+Fixed Douniamusic
+Removed Dzmusique support 
+
+
+V 1.1
+Released::23/August/2010
+
+::FRENCH::
+changements :
+probleme d'interface qui bug pendant le téléchargement reglé
+probleme du dl sur dzmusique.com reglé
+ajout d'un systeme de verifications de mises a jours / nouvelles versions
+ajout d'un boutton Stop
+ajout d'un pourcentage du progrès à chaque morceau
+ajout d'icones 'en cours' et 'téléchargé' sur les morceaux
+plusieurs autres fixes
+
+::ENGLISH::
+changes :
+
+annoying unresponsive Gui while Downloading bug Fixed
+Added Update check for new versions
+dzmusique.com support fixed
+added Stop Button
+added progress percent for each track
+added downloading / downloaded item icons
+several code fixes and better workarounds
+
+
+
+
+
+
+V 1.0
+Released:: 20/August/2010
+
