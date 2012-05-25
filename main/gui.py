@@ -2,7 +2,7 @@
 
 ###   App By : Redouane            ###
 ###   E-MAIL : unrealdz@gmail.com  ###
-###   BLOG : dzpp.blogspot.com     ### 
+###   BLOG : redouanezait.com      ### 
 ###   LICENSE : GNU GPL v3         ###
 
 
@@ -59,7 +59,7 @@ class urlgroup(QGroupBox):
         self.setObjectName('urlgroup')
         self.urlbar = QLineEdit()
         self.urlbar.setObjectName('urlbar')
-        self.urlbar.setText('Collez votre URL içi')
+        self.urlbar.setText('Collez votre URL iï¿½i')
         self.urlbar.setStyleSheet('font-weight:lighter;color:gray;')
         self.urlbar.show()
         self.parsebutton = QPushButton('Go !!')
