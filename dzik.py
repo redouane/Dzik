@@ -2,7 +2,7 @@
 
 ###   App By : Redouane            ###
 ###   E-MAIL : unrealdz@gmail.com  ###
-###   BLOG : dzpp.blogspot.com     ### 
+###   BLOG : redouanezait.com      ### 
 ###   LICENSE : GNU GPL v3         ###
 
 
@@ -33,7 +33,7 @@ def main():
             self.thread.start()
         def update(self, updateinfos):
             self.updatebox = QMessageBox()
-            self.updatebox.about(self.main, 'Mise à  jour', 'Une nouvelle Mise à  jour est disponible  : <br \> <b> Version : </b>' + updateinfos['version'] + '<br /> <b> Lien : </b>' + updateinfos['link'] + '<br /> <b>Nouveautés : </b>' + updateinfos['whatsnew'])
+            self.updatebox.about(self.main, 'Mise ï¿½ï¿½ jour', 'Une nouvelle Mise ï¿½ï¿½ jour est disponible  : <br \> <b> Version : </b>' + updateinfos['version'] + '<br /> <b> Lien : </b>' + updateinfos['link'] + '<br /> <b>Nouveautï¿½s : </b>' + updateinfos['whatsnew'])
               
     class checkforUpdate(QThread):
         def run(self):
