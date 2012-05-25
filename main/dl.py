@@ -2,7 +2,7 @@
 
 ###   App By : Redouane            ###
 ###   E-MAIL : unrealdz@gmail.com  ###
-###   BLOG : dzpp.blogspot.com     ### 
+###   BLOG : redouanezait.com      ### 
 ###   LICENSE : GNU GPL v3         ###
 
 
